@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Novianti\\modul9_1302210078\\modul9_1302210078\\modul9_1302210078.csproj",
+      "projectUniqueName": "C:\\Users\\Novianti\\GITHUB9\\JURNAL9_1302210078\\modul9_1302210078\\modul9_1302210078.csproj",
       "projectName": "modul9_1302210078",
-      "projectPath": "C:\\Users\\Novianti\\modul9_1302210078\\modul9_1302210078\\modul9_1302210078.csproj",
+      "projectPath": "C:\\Users\\Novianti\\GITHUB9\\JURNAL9_1302210078\\modul9_1302210078\\modul9_1302210078.csproj",
       "packagesPath": "C:\\Users\\Novianti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Novianti\\modul9_1302210078\\modul9_1302210078\\obj\\",
+      "outputPath": "C:\\Users\\Novianti\\GITHUB9\\JURNAL9_1302210078\\modul9_1302210078\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Novianti\\AppData\\Roaming\\NuGet\\NuGet.Config",
